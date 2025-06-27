@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      t11ngo
+HostName                       carnegie.ee.ryerson.ca
+ProcessIdentifier              23925
+ProcessCreationTime_UTC        1732807729
+ProcessCreationTime_Readable   Thu Nov 28 10:28:49 2024 EST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/student2/t11ngo/CIC-Files/lab4/FULLADDER/symbol/symbol.oa.cdslck
+TimeEditLocked                 Thu Nov 28 10:30:23 2024 EST
